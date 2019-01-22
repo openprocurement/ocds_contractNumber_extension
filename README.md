@@ -5,7 +5,7 @@ of the contract.
 The field introduced by this extension is `contracts/contractNumber`. 
 It can be represented as string.
 ## Example
-The following extract illustrates these properties in use within the contract block.
+The following extract illustrates this property in use within the contract block.
 ```
   "contracts": [
     {
