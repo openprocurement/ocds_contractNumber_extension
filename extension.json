@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "contractNumber"
+  },
+  "description": {
+    "en": "Editable number of the contract"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ],
+  "documentationUrl": {
+    "en": ""
+  }
+}
